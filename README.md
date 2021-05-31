@@ -1,4 +1,4 @@
-# https://dynamic-mask.com
+# https://dynamic-mask.com (Wordpress)
 ## https://www.instagram.com/dynamicmask/
 ## https://www.tiktok.com/@dynamicmask?lang=tr-TR
 ## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ
