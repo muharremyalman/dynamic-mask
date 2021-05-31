@@ -9,11 +9,13 @@
 ## Şirketlere Özel (Şirket logosu + istediği renk, tasarım)
 ## OR Kodlu (Kişinin hes kodu + kişi ismi + sözleşme + istediği renk, tasarım) 
 ## Sosyal Mesaj İçeren (İstediği sosyal mesaj + istediği renk, tasarım)
-![Admin Resmi](https://i.hizliresim.com/8hue1i1.png)
+
 ![Admin Resmi](https://i.hizliresim.com/satjeo7.png)
 ![Admin Resmi](https://i.hizliresim.com/rbaeyva.png)
-![Admin Resmi](https://www.hizliresim.com/kosrc2g)
-![Admin Resmi](https://www.hizliresim.com/nbetaax)
-![Admin Resmi](https://www.hizliresim.com/s9b2ahe)
+![Admin Resmi](https://i.hizliresim.com/s9b2ahe.png)
+![Admin Resmi](https://i.hizliresim.com/8hue1i1.png)
+![Admin Resmi](https://i.hizliresim.com/nbetaax.jpeg)
+![Admin Resmi](https://i.hizliresim.com/kosrc2g.jpeg)
+
 
 
