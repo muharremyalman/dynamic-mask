@@ -6,7 +6,7 @@
 ## https://dynamic-mask.com (Wordpress)
 ## https://www.instagram.com/dynamicmask/
 ## https://www.tiktok.com/@dynamicmask?lang=tr-TR
-## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ
+## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ (PROJE SUNUMU)
 ## https://www.linkedin.com/company/73793069
 ## Grup projesidir. Projenin Yöneticisiyim.
 
