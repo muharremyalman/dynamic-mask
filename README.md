@@ -1,9 +1,9 @@
-## 3 tip maske satışı ile yola çıktığımız bir e-ticaret projesidir. 
+## 3 tip maske satışı ile yola çıktığımız e-ticaret projesidir. 
 ## Şirketlere Özel (Şirket logosu + istediği renk, tasarım)
 ## OR Kodlu (Kişinin hes kodu + kişi ismi + sözleşme + istediği renk, tasarım) 
 ## Sosyal Mesaj İçeren (İstediği sosyal mesaj + istediği renk, tasarım)
 
-## https://dynamic-mask.com (Wordpress)
+## https://dynamic-mask.com 
 ## https://www.instagram.com/dynamicmask/
 ## https://www.tiktok.com/@dynamicmask?lang=tr-TR
 ## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ (PROJE SUNUMU)
