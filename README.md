@@ -8,7 +8,6 @@
 ## https://www.tiktok.com/@dynamicmask?lang=tr-TR
 ## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ (PROJE SUNUMU)
 ## https://www.linkedin.com/company/73793069
-## Grup projesidir. Projenin Yöneticisiyim.
 
 
 ![Admin Resmi](https://i.hizliresim.com/satjeo7.png)
