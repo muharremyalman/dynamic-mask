@@ -3,11 +3,9 @@
 ## OR Kodlu (Kişinin hes kodu + kişi ismi + sözleşme + istediği renk, tasarım) 
 ## Sosyal Mesaj İçeren (İstediği sosyal mesaj + istediği renk, tasarım)
 
-## https://dynamic-mask.com 
-## https://www.instagram.com/dynamicmask/
-## https://www.tiktok.com/@dynamicmask?lang=tr-TR
-## https://www.youtube.com/channel/UCg_dXdNTmoSLuBE2yh9aOzQ (PROJE SUNUMU)
-## https://www.linkedin.com/company/73793069
+
+## https://www.youtube.com/watch?v=TBG5HuM5BtY&t=152s (PROJE SUNUMU)
+
 
 
 ![Admin Resmi](https://i.hizliresim.com/satjeo7.png)
